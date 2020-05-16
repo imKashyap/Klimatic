@@ -6,5 +6,5 @@
 
 ## Screenshots:
 
-<img src="screenshots/screenshot.png" width =250 alt="Screenshot of the todoey app">
+<img src="screenshots/screenshot.png" alt="Screenshot of the todoey app">
 
