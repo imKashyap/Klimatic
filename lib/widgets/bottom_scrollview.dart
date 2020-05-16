@@ -21,7 +21,7 @@ class BottomScrollView extends StatelessWidget {
           height: 14.0,
         ),
         Container(
-          height: 200.0,
+          height: 150,
           child: ListView.builder(
               scrollDirection: Axis.horizontal,
               itemCount: locationWeather.daysForecast.length,
